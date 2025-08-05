@@ -15,10 +15,9 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en: **[Tu proyecto o área de enfoque actual]**
-- 🌱 Estoy aprendiendo: **Python, Java, HTML, Visual Studio Code**
+- 🔭 Actualmente estoy estudiando Ingenieria Electronica
+- 🌱 Estoy aprendiendo: **Linux**
 - 💬 Pregúntame sobre: **algoritmos, proyectos personales, automatización**
-- 📫 Escríbeme a: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
 - ⚡ Dato curioso: **Me encanta automatizar tareas repetitivas con código**
 
 ---
