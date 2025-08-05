@@ -18,8 +18,7 @@
 - 🔭 Actualmente estoy estudiando Ingenieria Electronica
 - 🌱 Estoy aprendiendo: **Linux**
 - 💬 Pregúntame sobre: **algoritmos, proyectos personales, automatización**
-- ⚡ Dato curioso: **Me encanta automatizar tareas repetitivas con código**
-
+- 🎯 Objetivo: Este año quiero aprender a manejar linux 
 ---
 
 ## 🌐 Conecta conmigo:
