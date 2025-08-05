@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/" target="blank">
     <img align="center"
