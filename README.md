@@ -14,9 +14,8 @@
 
 - 🌱 Actualmente estoy aprendiendo a usar Git y GitHub para proyectos.
 
-- 📫 Cómo contactarme: **(Tu correo electrónico)**
 
-- ⚡ Dato curioso: La música y la tecnología digital son mis pasiones.
+- ⚡ La música y la tecnología digital son mis pasiones.
 
 <br>
 
