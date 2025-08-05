@@ -27,22 +27,22 @@
   <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Tu LinkedIn" height="30" width="40" />
+      alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/tu-usuario-de-instagram" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Tu Instagram" height="30" width="40" />
+      alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://twitter.com/tu-usuario-de-twitter" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Tu Twitter" height="30" width="40" />
+      alt="Twitter" height="30" width="40" />
   </a>
   <a href="mailto:tu-correo@ejemplo.com" target="blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-      alt="Tu Email" height="30" width="40" />
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
+      alt="Email" height="30" width="40" />
   </a>
 </p>
 <br>
