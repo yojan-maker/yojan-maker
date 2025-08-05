@@ -22,28 +22,21 @@
 <br>
 
 ### Conecta conmigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tu-usuario-de-instagram" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/tu-usuario-de-twitter" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/ios-filled/50/000000/new-post.png"
-      alt="Email" height="30" width="40" />
-  </a>
-</p>
+
+<a href="https://www.linkedin.com/in/tu-perfil-de-linkedin">
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/tu-usuario-de-instagram">
+  <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/tu-usuario-de-twitter">
+  <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:tu-correo@ejemplo.com">
+  <img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br /><br />
 <br>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
