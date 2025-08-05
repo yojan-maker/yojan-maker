@@ -126,7 +126,9 @@
 
 <br>
 
-<h3 align="left">Conecta conmigo:</h3>
+<br>
+
+### Conecta conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/" target="blank">
     <img align="center"
@@ -145,7 +147,7 @@
   </a>
   <a href="mailto:tu-correo@ejemplo.com" target="blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg"
       alt="Tu Email" height="30" width="40" />
   </a>
 </p>
