@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">Un apasionado del desarrollo web y la tecnología</h3>
+<h1 align="center">Hola 👋, soy [Yojan]</h1>
+<h3 align="center">Un apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO-DE-GITHUB&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yojan-maker&color=blue" alt="Profile Views" />
 </p>
 
 <blockquote style="font-size: 24px;">
