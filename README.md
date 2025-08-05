@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy [Yojan]</h1>
+<h1 align="center">Hola 👋, soy [Yojan Contreras]</h1>
 <h3 align="center">Un apasionado por la tecnología</h3>
 
 <p align="center">
