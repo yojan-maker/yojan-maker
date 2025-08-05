@@ -126,8 +126,6 @@
 
 <br>
 
-<br>
-
 ### Conecta conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/" target="blank">
