@@ -6,8 +6,8 @@
 ## 👨‍💻 Sobre mí
 
 - 🔭 Actualmente estoy trabajando en: **[Tu proyecto o área de enfoque actual]**
-- 🌱 Estoy aprendiendo: **JavaScript, React, Node.js**
-- 💬 Pregúntame sobre: **HTML, CSS, Git, proyectos personales**
+- 🌱 Estoy aprendiendo: **Python, Java, HTML, Visual Studio Code**
+- 💬 Pregúntame sobre: **algoritmos, proyectos personales, automatización**
 - 📫 Escríbeme a: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
 - ⚡ Dato curioso: **Me encanta automatizar tareas repetitivas con código**
 
@@ -34,14 +34,10 @@
 
 ## 🛠️ Lenguajes y herramientas:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="Visual Studio Code"></code>
 
 ---
 
@@ -67,4 +63,4 @@ Template inspirado en [Jas-Script](https://github.com/Jas-Script)
 
 ---
 
-> Última edición: [Fecha de hoy]
+> Última edición: 2025-08-04
