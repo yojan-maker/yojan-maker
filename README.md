@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-DE-GITHUB&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yojan-maker&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub streak" />
 </p>
 
 <details align="center">
@@ -71,10 +71,3 @@
 
 ---
 
-### ✨ Créditos
-
-Template inspirado en [Jas-Script](https://github.com/Jas-Script) y [UjjwalSharma01](https://github.com/UjjwalSharma01)
-
----
-
-> Última edición: 2025-08-04
