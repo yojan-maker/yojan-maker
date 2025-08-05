@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hola, soy Yojan Contreras</h1>
+<h3 align="center">Estudiante de Ingenieria Electronica🌟.</h3>
 
 <br>
 
