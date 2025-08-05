@@ -40,7 +40,7 @@
   </a>
   <a href="mailto:tu-correo@ejemplo.com" target="blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
+      src="https://img.icons8.com/ios-filled/50/000000/new-post.png"
       alt="Email" height="30" width="40" />
   </a>
 </p>
