@@ -41,26 +41,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-DE-GITHUB&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=radical" alt="Top langs" />
-</p>
-
----
-
-### ✨ Créditos
-
-Template inspirado en [Jas-Script](https://github.com/Jas-Script)
-
----
-
-> Última edición: 2025-08-04
