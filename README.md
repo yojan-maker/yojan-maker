@@ -1,71 +1,21 @@
-<h1 align="center">Hola 👋, soy Yojan Contreras</h1>
-<h3 align="center">Un apasionado por la tecnología</h3>
+# 💫 About Me:
+🔭 Actualmente estoy estudiando Ingenieria Electronica<br>🌱 Estoy aprendiendo: Linux<br>🎯 Objetivo: Aumentar mi conocimiento en redes y algoritmos<br>🤖Dato curioso: Me gusta la automatización
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yojan-maker&color=blue" alt="Profile Views" />
-</p>
 
-<blockquote style="font-size: 24px;">
-  <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
-  </p>
-</blockquote>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yojan Contreras Gomez) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yojanarley76@hotmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YojanC-u5j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yojanarley8@hotmail.com) 
 
-<img align="right" alt="Trabajando en PC GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" />
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yojan-maker&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yojan-maker&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yojan-maker&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👨‍💻 Sobre mí
-
-- 🔭 Actualmente estoy estudiando Ingenieria Electronica
-- 🌱 Estoy aprendiendo: **Linux**
-- 💬 Pregúntame sobre: **algoritmos, proyectos personales, automatización**
-- 🎯 Objetivo: Aumentar mi conocimiento en redes
----
-
-## 🌐 Conecta conmigo:
-
-<a href="https://www.linkedin.com/in/tu-perfil-de-linkedin">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tu-usuario-de-instagram">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/tu-usuario-de-twitter">
-  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:tu-correo@ejemplo.com">
-  <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br /><br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yojan-maker&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yojan-maker&icon=8&color=7)](https://visitcount.itsvg.in)
 
-## 🛠️ Lenguajes y herramientas:
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="Visual Studio Code"></code>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yojan-maker&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yojan-maker&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub streak" />
-</p>
-
-<details align="center">
-  <summary>🏆 GitHub Trophies</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO-DE-GITHUB&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-  </p>
-</details>
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
