@@ -11,19 +11,18 @@ Me encanta trabajar en proyectos que combinen **hardware y software** para resol
 🌱 Aprendiendo: **Linux** y **Redes**  
 🎯 Objetivo: Aumentar mi conocimiento en **algoritmos y ciberseguridad**  
 🤖 Dato curioso: Me gusta la **automatización**  
-📂 Trabajando en: un sistema de control automatizado con **ESP8266**  
 
 ---
 
 ### 💡 Intereses
-- 🎮 Videojuegos retro y emulación  
-- 🔧 Proyectos de electrónica DIY  
-- 🌍 Redes y telecomunicaciones  
+- 🎮 Videojuegos ry emulación  
+- 🔧 Proyectos de electrónica  
+- 🌍 Redes  
 - 📚 Aprender nuevos lenguajes de programación  
 
 ---
 
-### 📜 Frase favorita
+### 📜 
 > *"El mejor modo de predecir el futuro es inventarlo."* — Alan Kay  
 
 ---
