@@ -1,4 +1,8 @@
 # 💫 About Me:
+# 💫 About Me:
+
+<img align="right" height="300px" width= "320px" alt="GIF de un personaje programando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDllZTE2ZDZiMWtnY2JtOHExNnVyNjE1dWllMXRtcHd4aXQydWxqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDfj2/giphy.gif"/>
+
 🔭 Actualmente estoy estudiando Ingenieria Electronica<br>🌱 Estoy aprendiendo: Linux<br>🎯 Objetivo: Aumentar mi conocimiento en redes y algoritmos<br>🤖Dato curioso: Me gusta la automatización
 
 
