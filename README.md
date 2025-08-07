@@ -1,16 +1,13 @@
 # 💫 About Me:
 
-<img align="right" height="300px" width= "320px" alt="GIF de un personaje programando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDllZTE2ZDZiMWtnY2JtOHExNnVyNjE1dWllMXRtcHd4aXQydWxqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDfj2/giphy.gif"/>
+<img align="right" height="300px" width="320px" alt="GIF de un personaje programando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDllZTE2ZDZiMWtnY2JtOHExNnVyNjE1dWllMXRtcHd4aXQydWxqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDfj2/giphy.gif"/>
 
-🔭 Actualmente estoy estudiando Ingenieria Electronica<br>🌱 Estoy aprendiendo: Linux<br>🎯 Objetivo: Aumentar mi conocimiento en redes y algoritmos<br>🤖Dato curioso: Me gusta la automatización
-
-
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YojanContrerasGomez) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yojanarley76@hotmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YojanC-u5j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yojanarley8@hotmail.com)
+🔭 Actualmente estoy estudiando Ingenieria Electronica<br>🌱 Estoy aprendiendo: Linux<br>🎯 Objetivo: Aumentar mi conocimiento en redes y algoritmos<br>🤖 Dato curioso: Me gusta la automatización
 
 <br clear="right"/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YojanContrerasGomez) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yojanarley76@hotmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YojanC-u5j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yojanarley8@hotmail.com)
 
 ---
 
