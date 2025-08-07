@@ -15,7 +15,7 @@ Me encanta trabajar en proyectos que combinen **hardware y software** para resol
 ---
 
 ### 💡 Intereses
-- 🎮 Videojuegos ry emulación  
+- 🎮 Videojuegos y emulación  
 - 🔧 Proyectos de electrónica  
 - 🌍 Redes  
 - 📚 Aprender nuevos lenguajes de programación  
