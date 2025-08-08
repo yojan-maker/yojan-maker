@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" height="300px" width="320px" alt="GIF de un personaje programando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDllZTE2ZDZiMWtnY2JtOHExNnVyNjE1dWllMXRtcHd4aXQydWxqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDfj2/giphy.gif"/>
+<img align="right" height="300px" width="320px" alt="GIF " src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDllZTE2ZDZiMWtnY2JtOHExNnVyNjE1dWllMXRtcHd4aXQydWxqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDfj2/giphy.gif"/>
 
 Soy un apasionado por la **tecnología** y la **electrónica**, siempre buscando nuevos retos que me permitan aprender y crear soluciones innovadoras.  
 Me encanta trabajar en proyectos que combinen **hardware y software** para resolver problemas reales.  
